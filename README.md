@@ -1,3 +1,4 @@
+# This library has been deprecated. Please refer to the current library at https://github.com/Adscore/nodejs-common
 # @variably/adscore-node
 
 Official API
